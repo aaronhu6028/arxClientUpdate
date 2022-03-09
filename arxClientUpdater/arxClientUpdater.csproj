@@ -7,8 +7,8 @@
     <ProjectGuid>{60A956FD-55E9-417B-B9F0-538DD6690174}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NetbackUpdater</RootNamespace>
-    <AssemblyName>NetbackUpdater</AssemblyName>
+    <RootNamespace>arxClientUpdater</RootNamespace>
+    <AssemblyName>arxClientUpdater</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace NetbackUpdater
+namespace arxClientUpdater
 {
     static class Program
     {

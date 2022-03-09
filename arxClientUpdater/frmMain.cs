@@ -6,12 +6,12 @@ using System.Security.Cryptography;
 using System.Windows.Forms;
 using System.Xml;
 
-namespace NetbackUpdater
+namespace arxClientUpdater
 {
     public partial class frmMain : Form
     {
         const string updateXml = "update.xml";
-        const string serverUri = "https://github.com/sibuzu/NetBackUpdate/raw/main/";
+        const string serverUri = "https://github.com/aaronhu6028/arxClientUpdate/raw/main/";
         public frmMain()
         {
             InitializeComponent();

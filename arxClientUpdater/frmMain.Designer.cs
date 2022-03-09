@@ -1,4 +1,4 @@
-﻿namespace NetbackUpdater
+﻿namespace arxClientUpdater
 {
     partial class frmMain
     {
