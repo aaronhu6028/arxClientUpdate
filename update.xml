@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.03.10.03930</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.10.03930.zip</url>
+    <version>v22.03.12.20520</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.12.20520.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.03.10.03930:
-* init2
+    <description>v22.03.12.20520:
+* uptime
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>93409b2dbfa1f2c76dcf88a98bb9e213</md5>
+    <md5>2a24f1756b51ac76e70abd534e0751a3</md5>
   </update>
 </NetbackUpdate>
