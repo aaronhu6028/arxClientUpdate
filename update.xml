@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.03.12.33733</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.12.33733.zip</url>
+    <version>v22.03.14.21092</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.14.21092.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.03.12.33733:
-* uptime
+    <description>v22.03.14.21092:
+* timelag
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>72d956fb417dc9c1ac43f72c976c1ae2</md5>
+    <md5>2a132841060a825bb71a7d8f36aa18b0</md5>
   </update>
 </NetbackUpdate>
