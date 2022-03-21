@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.03.21.30715</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.21.30715.zip</url>
+    <version>v22.03.21.33227</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.21.33227.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.03.21.30715:
-* fix binance export
+    <description>v22.03.21.33227:
+* sort email
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>7e2381b8beb86dc59bf6fa7095d77400</md5>
+    <md5>de8c296b2ecf1478c1b141ca5500b094</md5>
   </update>
 </NetbackUpdate>
