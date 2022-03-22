@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.03.22.22488</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.22.22488.zip</url>
+    <version>v22.03.22.37477</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.22.37477.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.03.22.22488:
-* sort server
+    <description>v22.03.22.37477:
+* fix export
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>dc6047823508a98e766f54ab86501919</md5>
+    <md5>623a5e87ec727f8f7b4b183422785026</md5>
   </update>
 </NetbackUpdate>
