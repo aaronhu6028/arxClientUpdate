@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.03.23.23883</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.23.23883.zip</url>
+    <version>v22.03.23.24590</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.23.24590.zip</url>
     <fileName>arxClient.exe</fileName>
     <description>v22.03.23.23883:
-* fix export
+* backtest
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>8a79babeca71f721d48a30ae41a24f4f</md5>
+    <md5>7095f8c6856a93b323b79bd0eb2df151</md5>
   </update>
 </NetbackUpdate>
