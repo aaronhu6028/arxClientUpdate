@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.03.23.40118</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.23.40118.zip</url>
+    <version>v22.03.26.04175</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.26.04175.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.03.23.40118:
-* orderId
+    <description>v22.03.26.04175:
+* QTimer
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>7c505e4576a4d2615f939f69452315ed</md5>
+    <md5>acc3db6ba27f71e185d623700d8bb7b9</md5>
   </update>
 </NetbackUpdate>
