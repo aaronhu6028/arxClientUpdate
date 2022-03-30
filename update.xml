@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.03.29.22281</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.29.22281.zip</url>
+    <version>v22.03.30.22174</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.30.22174.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.03.29.22281:
+    <description>v22.03.30.22174:
 * rebate update
 </description>
     <launchArgs>
@@ -12,6 +12,6 @@
     <files dir="..\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>1c31c28724bdf23701af61e2927aeffb</md5>
+    <md5>fb7382949541b5d0829ffdb1112cc40b</md5>
   </update>
 </NetbackUpdate>
