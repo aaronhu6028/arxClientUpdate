@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.03.30.40310</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.30.40310.zip</url>
+    <version>v22.03.31.39135</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.03.31.39135.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.03.30.40310:
-* income update
+    <description>v22.03.31.39135:
+* import capital
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>ce2df1810294d0daca7dfc08a9c84a17</md5>
+    <md5>aec8b7544dcd3a31f175e6d830f96ee0</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
