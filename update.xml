@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.04.01.00507</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.01.00507.zip</url>
+    <version>v22.04.01.02650</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.01.02650.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.04.01.00507:
-* BNB amount
+    <description>v22.04.01.02650:
+* CustomName
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>4f5830fdddfd1354d88cb8d9bb1ddbdd</md5>
+    <md5>bdb8a78b544ad29637d58707cbaa30b8</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
