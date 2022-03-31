@@ -9,9 +9,23 @@
 </description>
     <launchArgs>
     </launchArgs>
-    <files dir="..\arxClient\bin\Debug\">
+    <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
     <md5>ce2df1810294d0daca7dfc08a9c84a17</md5>
+  </update>
+  <update appID="arxRebate">
+    <version>v22.03.31.28261</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxRebate/arxRebate_v22.03.31.28261.zip</url>
+    <fileName>arxRebate.exe</fileName>
+    <description>v22.03.31.28261:
+* init
+</description>
+    <launchArgs>
+    </launchArgs>
+    <files dir="..\arxClient\arxRebate\bin\Debug\">
+      <file>arxRebate.exe</file>
+    </files>
+    <md5>ad6a75b10b38ecdcee0991b0dab51e5e</md5>
   </update>
 </NetbackUpdate>
