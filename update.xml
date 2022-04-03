@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.04.03.01495</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.03.01495.zip</url>
+    <version>v22.04.03.24886</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.03.24886.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.04.03.01495:
-* fix QTime
+    <description>v22.04.03.24886:
+* remove unused
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>132aa2e2b0b6361f4193f21940695fa7</md5>
+    <md5>b1ecd7b8659a5cc1150fddd064700d5d</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
