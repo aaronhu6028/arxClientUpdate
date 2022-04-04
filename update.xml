@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.04.03.34401</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.03.34401.zip</url>
+    <version>v22.04.04.31854</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.04.31854.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.04.03.34401:
-* BUSD trade
+    <description>v22.04.04.31854:
+* position sum
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>28febc0ec6b1ef44ca6e42454f8d20c7</md5>
+    <md5>b8be7b85b8180d079426acf7739068ff</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
