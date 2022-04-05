@@ -5,14 +5,14 @@
     <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.05.28102.zip</url>
     <fileName>arxClient.exe</fileName>
     <description>v22.04.05.28102:
-* Fix 信用現金
+* skip error db
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>c504d12b34a5737b8dc672ec3e2642b0</md5>
+    <md5>d836d48976ce826526a8086e3784918a</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
