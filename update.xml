@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.04.05.19449</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.05.19449.zip</url>
+    <version>v22.04.05.28102</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.05.28102.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.04.05.19449:
-* position square
+    <description>v22.04.05.28102:
+* Fix 信用現金
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>3e717459b7e7e7d20a9ac47e1505309e</md5>
+    <md5>c504d12b34a5737b8dc672ec3e2642b0</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
