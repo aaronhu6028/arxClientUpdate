@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.04.04.41573</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.04.41573.zip</url>
+    <version>v22.04.05.19449</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.05.19449.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.04.04.41573:
+    <description>v22.04.05.19449:
 * position square
 </description>
     <launchArgs>
@@ -12,7 +12,7 @@
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>03c0aa479ddddabd7d17bd6ae9f710bf</md5>
+    <md5>3e717459b7e7e7d20a9ac47e1505309e</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
