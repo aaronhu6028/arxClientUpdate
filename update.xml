@@ -5,14 +5,14 @@
     <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.06.20141.zip</url>
     <fileName>arxClient.exe</fileName>
     <description>v22.04.06.20141:
-* update ETH策略
+* update Income
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>ad9a7d7a6ba915db1a219d3941dbbf97</md5>
+    <md5>0e34abb89d48a71f4a77288b5f8edf60</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
