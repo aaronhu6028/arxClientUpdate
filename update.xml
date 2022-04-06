@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.04.05.42653</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.05.42653.zip</url>
+    <version>v22.04.06.20141</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.06.20141.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.04.05.42653:
+    <description>v22.04.06.20141:
 * update ETH策略
 </description>
     <launchArgs>
@@ -12,7 +12,7 @@
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>cbfd5de1ff36c343989700085d40ff65</md5>
+    <md5>ad9a7d7a6ba915db1a219d3941dbbf97</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
