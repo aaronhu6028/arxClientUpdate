@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.04.09.18554</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.09.18554.zip</url>
+    <version>v22.04.10.23116</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.10.23116.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.04.09.18554:
-* referral Id
+    <description>v22.04.10.23116:
+* Server List and Watching
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>7ef36dc31e0ba10e8782311f0fa86d69</md5>
+    <md5>c3899ced7ec22c353d5fe6298e2efaa3</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
