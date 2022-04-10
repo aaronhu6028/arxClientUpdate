@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.04.10.38994</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.10.38994.zip</url>
+    <version>v22.04.10.42119</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.10.42119.zip</url>
     <fileName>arxClient.exe</fileName>
     <description>v22.04.10.38994:
 * order freq
@@ -12,7 +12,7 @@
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>68726c351320a7c5961756548d532bef</md5>
+    <md5>85e1de91f68ffa98d97d3e9ca3b48ae4</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
