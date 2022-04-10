@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.04.10.27005</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.10.27005.zip</url>
+    <version>v22.04.10.30385</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.10.30385.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.04.10.27005:
-* 下單延遲
+    <description>v22.04.10.30385:
+* server is running
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
     </files>
-    <md5>56578c6cdb9c9ddac5bf091f0d643b11</md5>
+    <md5>c78272f333398338f0311a2bcc3f1e05</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
