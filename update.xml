@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.04.28.39763</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.28.39763.zip</url>
+    <version>v22.04.30.04634</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.04.30.04634.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.04.28.39763:
-* GridTick
+    <description>v22.04.30.04634:
+* Show capital
 </description>
     <launchArgs>
     </launchArgs>
@@ -15,7 +15,7 @@
       <file>Binance.API.Csharp.Client.Domain.dll</file>
       <file>Binance.API.Csharp.Client.Models.dll</file>
     </files>
-    <md5>6d2172f453ae49f3b4bc42e5b1a67c22</md5>
+    <md5>e4eebee98d3d11317078d350a35c8dec</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
