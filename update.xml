@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.05.16.06156</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.05.16.06156.zip</url>
+    <version>v22.05.20.20026</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.05.20.20026.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.05.16.06156:
-* BTC price
+    <description>v22.05.20.20026:
+* FTX ready
 </description>
     <launchArgs>
     </launchArgs>
@@ -15,7 +15,7 @@
       <file>Binance.API.Csharp.Client.Domain.dll</file>
       <file>Binance.API.Csharp.Client.Models.dll</file>
     </files>
-    <md5>e7a5145332a09fbfaefac899b9f2a205</md5>
+    <md5>496b2a86c08cf821bbf701bfcadcfbc2</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
