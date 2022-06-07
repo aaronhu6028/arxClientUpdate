@@ -31,4 +31,18 @@
     </files>
     <md5>ad6a75b10b38ecdcee0991b0dab51e5e</md5>
   </update>
+  <update appID="MaxOrder">
+    <version>v22.06.08.03044</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/MaxOrder/MaxOrder_v22.06.08.03044.zip</url>
+    <fileName>MaxOrder.exe</fileName>
+    <description>v22.03.31.28261:
+* init
+</description>
+    <launchArgs>
+    </launchArgs>
+    <files dir="..\MaxOrder\bin\Debug\">
+      <file>MaxOrder.exe</file>
+    </files>
+    <md5>bfe763935ac9bfe1543343140da14365</md5>
+  </update>
 </NetbackUpdate>
