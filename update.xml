@@ -32,10 +32,10 @@
     <md5>ad6a75b10b38ecdcee0991b0dab51e5e</md5>
   </update>
   <update appID="MaxOrder">
-    <version>v22.06.10.05842</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/MaxOrder/MaxOrder_v22.06.10.05842.zip</url>
+    <version>v22.06.10.06048</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/MaxOrder/MaxOrder_v22.06.10.06048.zip</url>
     <fileName>MaxOrder.exe</fileName>
-    <description>v22.06.10.05842:
+    <description>v22.06.10.06048:
 * adjust font
 </description>
     <launchArgs>
@@ -43,6 +43,6 @@
     <files dir="..\MaxOrder\bin\Debug\">
       <file>MaxOrder.exe</file>
     </files>
-    <md5>5771d3cdb2449667bcdb038efc010e9f</md5>
+    <md5>427183191bda37aec0a1a72a5b8d365e</md5>
   </update>
 </NetbackUpdate>
