@@ -32,17 +32,17 @@
     <md5>ad6a75b10b38ecdcee0991b0dab51e5e</md5>
   </update>
   <update appID="MaxOrder">
-    <version>v22.06.08.03503</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/MaxOrder/MaxOrder_v22.06.08.03503.zip</url>
+    <version>v22.06.09.35629</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/MaxOrder/MaxOrder_v22.06.09.35629.zip</url>
     <fileName>MaxOrder.exe</fileName>
-    <description>v22.06.08.03503:
-* test
+    <description>v22.06.09.35629:
+* ready
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\MaxOrder\bin\Debug\">
       <file>MaxOrder.exe</file>
     </files>
-    <md5>b42a1b51a8cd51472354ccf62da771d5</md5>
+    <md5>169eda281fb289019f969f9c6eff284f</md5>
   </update>
 </NetbackUpdate>
