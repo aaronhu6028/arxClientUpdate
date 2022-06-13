@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.06.06.36344</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.06.06.36344.zip</url>
+    <version>v22.06.13.19344</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.06.13.19344.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.06.06.36344:
-* VIP 
+    <description>v22.06.13.19344:
+* quoteQty
 </description>
     <launchArgs>
     </launchArgs>
@@ -15,7 +15,7 @@
       <file>Binance.API.Csharp.Client.Domain.dll</file>
       <file>Binance.API.Csharp.Client.Models.dll</file>
     </files>
-    <md5>3833bfd7af3a99763b98604b4d1177c8</md5>
+    <md5>bec77561b4f01027afb82f9693c7c991</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
