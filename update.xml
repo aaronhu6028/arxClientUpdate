@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.06.15.00471</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.06.15.00471.zip</url>
+    <version>v22.06.20.20404</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.06.20.20404.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.06.15.00471:
-* 限價停利單
+    <description>v22.06.20.20404:
+* quoteQty
 </description>
     <launchArgs>
     </launchArgs>
@@ -15,7 +15,7 @@
       <file>Binance.API.Csharp.Client.Domain.dll</file>
       <file>Binance.API.Csharp.Client.Models.dll</file>
     </files>
-    <md5>6f17f9326ec70e710a6f70702a5563f2</md5>
+    <md5>1b50715d32dc89ade35cd98e5c142931</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
