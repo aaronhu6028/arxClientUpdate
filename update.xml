@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.06.20.20404</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.06.20.20404.zip</url>
+    <version>v22.06.27.17457</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.06.27.17457.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.06.20.20404:
-* quoteQty
+    <description>v22.06.27.17457:
+* Running 的策略也可以匯出。
 </description>
     <launchArgs>
     </launchArgs>
@@ -14,8 +14,9 @@
       <file>Binance.API.Csharp.Client.dll</file>
       <file>Binance.API.Csharp.Client.Domain.dll</file>
       <file>Binance.API.Csharp.Client.Models.dll</file>
+      <file>FtxApi.dll</file>
     </files>
-    <md5>1b50715d32dc89ade35cd98e5c142931</md5>
+    <md5>00d48c0d5dd48598d05839d5ed8ca995</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
