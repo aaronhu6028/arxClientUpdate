@@ -1,11 +1,12 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.06.27.19530</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.06.27.19530.zip</url>
+    <version>v22.06.28.20891</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.06.28.20891.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.06.27.19116:
-* Open Order</description>
+    <description>v22.06.28.20891:
+* Cancel Open Order
+</description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
@@ -15,7 +16,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>ef5030a51ad270854c54290751273d02</md5>
+    <md5>161843e34f17498bb85d052ae154dafe</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
