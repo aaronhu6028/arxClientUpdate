@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.07.08.23876</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.07.08.23876.zip</url>
+    <version>v22.07.18.16392</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.07.18.16392.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.07.08.23876:
-* ftx_binance
+    <description>v22.07.18.16392:
+* add 畫線
 </description>
     <launchArgs>
     </launchArgs>
@@ -16,7 +16,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>13f8cd76a414d05fc4f217a79fa6bcef</md5>
+    <md5>5d2dbe2a0a411d0abea4e67896e7eed0</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
