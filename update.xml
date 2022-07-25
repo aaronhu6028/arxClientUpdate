@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.07.18.16392</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.07.18.16392.zip</url>
+    <version>v22.07.25.25712</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.07.25.25712.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.07.18.16392:
-* add 畫線
+    <description>v22.07.25.25712:
+* Clear Record
 </description>
     <launchArgs>
     </launchArgs>
@@ -16,7 +16,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>5d2dbe2a0a411d0abea4e67896e7eed0</md5>
+    <md5>7eea3b79921294329b0dc57a936c86bc</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
