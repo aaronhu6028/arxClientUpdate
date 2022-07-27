@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.07.25.25712</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.07.25.25712.zip</url>
+    <version>v22.07.28.05441</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.07.28.05441.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.07.25.25712:
+    <description>v22.07.28.05441:
 * Clear Record
 </description>
     <launchArgs>
@@ -16,7 +16,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>7eea3b79921294329b0dc57a936c86bc</md5>
+    <md5>b417ccb780ec4f581a0ebcc69f1b86e1</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
