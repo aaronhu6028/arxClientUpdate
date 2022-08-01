@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.07.29.42883</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.07.29.42883.zip</url>
+    <version>v22.08.02.00816</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.08.02.00816.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.07.29.42883:
-* Square Position
+    <description>v22.08.02.00816:
+* 即時回測修正
 </description>
     <launchArgs>
     </launchArgs>
@@ -16,7 +16,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>6d06fd2ea7605faf9b9a4c274de159c4</md5>
+    <md5>7ab6114682bc2e18b390b54446061873</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
