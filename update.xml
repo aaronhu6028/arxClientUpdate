@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.08.02.28990</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.08.02.28990.zip</url>
+    <version>v22.08.04.26559</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.08.04.26559.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.08.02.28990:
-* add 出場
+    <description>v22.08.04.26559:
+* wait 0.2 seconds for start and stop
 </description>
     <launchArgs>
     </launchArgs>
@@ -16,7 +16,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>f47caf73da6f36ecabd25753dd2c5369</md5>
+    <md5>4bf82c2b6488cb1d7ef3a84f1269fde4</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
