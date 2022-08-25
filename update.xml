@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.08.23.06872</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.08.23.06872.zip</url>
+    <version>v22.08.24.42713</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.08.24.42713.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.08.23.06872:
+    <description>v22.08.24.42713:
 * S Status
 </description>
     <launchArgs>
@@ -16,7 +16,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>4824527ab6fcfd867b5414a78001f509</md5>
+    <md5>b09f792a7a637df6d574164c7cb33182</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
