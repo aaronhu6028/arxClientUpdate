@@ -1,11 +1,12 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.08.26.24632</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.08.26.24632.zip</url>
+    <version>v22.08.30.17731</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.08.30.17731.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.08.26.24632:
-* 畫線偏移</description>
+    <description>v22.08.30.17731:
+* slippage
+</description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
@@ -15,7 +16,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>e2caf6615db64c470e313372d2c7178a</md5>
+    <md5>e32c035a699533e84f10d3ff13351fcc</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
