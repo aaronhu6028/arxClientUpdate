@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.09.07.32659</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.09.07.32659.zip</url>
+    <version>v22.09.08.27313</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.09.08.27313.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.09.07.32659:
-* record slippage
+    <description>v22.09.08.27313:
+* OKX unit fixed
 </description>
     <launchArgs>
     </launchArgs>
@@ -16,7 +16,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>2e0c5699b7b7513a6b39cb3b98410382</md5>
+    <md5>965faaa04228a3cfe8146a3f51b2e426</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
