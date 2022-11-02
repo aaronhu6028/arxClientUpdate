@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.10.13.37375</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.10.13.37375.zip</url>
+    <version>v22.11.02.21168</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.11.02.21168.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.10.13.37375:
-* query exception handle
+    <description>v22.11.02.21168:
+* restart time
 </description>
     <launchArgs>
     </launchArgs>
@@ -16,7 +16,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>faacb1aaf182ab0f5282965a2ec519f1</md5>
+    <md5>07e9ca69341fcb64852b808b73b42fff</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
