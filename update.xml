@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v22.11.02.21168</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v22.11.02.21168.zip</url>
+    <version>v23.03.30.16127</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v23.03.30.16127.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v22.11.02.21168:
-* restart time
+    <description>v23.03.30.16127:
+* MA/SMS
 </description>
     <launchArgs>
     </launchArgs>
@@ -16,7 +16,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>07e9ca69341fcb64852b808b73b42fff</md5>
+    <md5>ad21789f6b40ea2f2f9c99f50963667c</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
