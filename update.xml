@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v23.04.04.01871</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v23.04.04.01871.zip</url>
+    <version>v23.04.12.15703</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v23.04.12.15703.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v23.04.04.01871:
-* export stg
+    <description>v23.04.12.15703:
+* BTC quote
 </description>
     <launchArgs>
     </launchArgs>
@@ -16,7 +16,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>0996c9a338b8996c7a2a0aed44a5b6bd</md5>
+    <md5>352a2ec8ae3385e4b874f871d243389f</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
