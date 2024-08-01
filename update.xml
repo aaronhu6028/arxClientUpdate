@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v24.07.27.26877</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.07.27.26877.zip</url>
+    <version>v24.08.01.21926</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.08.01.21926.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v24.07.27.26877:
-* 固定金額
+    <description>v24.08.01.21926:
+* 資金調整
 </description>
     <launchArgs>
     </launchArgs>
@@ -17,7 +17,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>78e6934af792913d375d824fe50f9be6</md5>
+    <md5>62427dfd4aaaec535a68306961833ac2</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
