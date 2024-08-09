@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v24.08.08.03734</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.08.08.03734.zip</url>
+    <version>v24.08.09.41025</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.08.09.41025.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v24.08.06.13456:
-* 交易成本、最大金額
+    <description>v24.08.09.41025:
+* Backtest
 </description>
     <launchArgs>
     </launchArgs>
@@ -17,7 +17,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>8ff2ea8a951aa5ff75850a050aa36450</md5>
+    <md5>f1fead17eea25481541882f9d61d8703</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
