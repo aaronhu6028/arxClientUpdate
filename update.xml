@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v24.08.10.27272</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.08.10.27272.zip</url>
+    <version>v24.08.11.34788</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.08.11.34788.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v24.08.09.41025:
-* Update amount
+    <description>v24.08.11.34788:
+* SmartLimitOrder
 </description>
     <launchArgs>
     </launchArgs>
@@ -17,7 +17,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>9eddb00c2c6027d41dba4cb55ed5e0d9</md5>
+    <md5>34485768124ab5b863ac0d03392edd11</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
