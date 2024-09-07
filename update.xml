@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v24.09.03.42946</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.09.03.42946.zip</url>
+    <version>v24.09.07.23703</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.09.07.23703.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v24.09.03.42946:
+    <description>v24.09.07.23703:
 * 參考淨值
 </description>
     <launchArgs>
@@ -17,7 +17,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>3e53dfa416447dbd5b9debcee0b62f30</md5>
+    <md5>911c6377e2604a89cc50dd18dc22502e</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
