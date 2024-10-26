@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v24.09.23.16199</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.09.23.16199.zip</url>
+    <version>v24.10.26.33298</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.10.26.33298.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v24.09.23.16199:
-* Symbol Filter
+    <description>v24.10.26.33298:
+* Support BNB
 </description>
     <launchArgs>
     </launchArgs>
@@ -17,7 +17,7 @@
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>c66e8d75575b5649013c478c856315a8</md5>
+    <md5>6cf022c028198e2067b886cda476fd35</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
