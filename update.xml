@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v24.10.26.33298</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.10.26.33298.zip</url>
+    <version>v24.10.26.38573</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.10.26.38573.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v24.10.26.33298:
-* Support BNB
+    <description>v24.10.26.38573:
+* key password
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>arxClient.exe</file>
-      <file>arx-server.json</file>
+      <file>arx-server.zip</file>
       <file>Binance.API.Csharp.Client.dll</file>
       <file>Binance.API.Csharp.Client.Domain.dll</file>
       <file>Binance.API.Csharp.Client.Models.dll</file>
       <file>FtxApi.dll</file>
     </files>
-    <md5>6cf022c028198e2067b886cda476fd35</md5>
+    <md5>847bbb35ff03f0759038ab373efd3548</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
