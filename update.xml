@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v24.11.19.35928</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.11.19.35928.zip</url>
+    <version>v24.11.19.40926</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v24.11.19.40926.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v24.11.19.35928:
+    <description>v24.11.19.40926:
 * OKX
 </description>
     <launchArgs>
@@ -15,9 +15,9 @@
       <file>Binance.API.Csharp.Client.dll</file>
       <file>Binance.API.Csharp.Client.Domain.dll</file>
       <file>Binance.API.Csharp.Client.Models.dll</file>
-      <file>FtxApi.dll</file>
+      <file>OKX.Api.dll</file>
     </files>
-    <md5>e9a7fb1bdc12972def83ee9e061f5d65</md5>
+    <md5>f014c107909c5e5d426edc1882f20a22</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
