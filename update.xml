@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v25.01.06.14878</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v25.01.06.14878.zip</url>
+    <version>v25.01.11.38370</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v25.01.11.38370.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v25.01.06.14878:
-* upgrade
+    <description>v25.01.11.38370:
+* Dual
 </description>
     <launchArgs>
     </launchArgs>
@@ -13,7 +13,7 @@
       <file>arxClient.exe</file>
       <file>arx-server.zip</file>
     </files>
-    <md5>97e3a3a409ad37da6803c90ccdac8aa3</md5>
+    <md5>969a327157b6f6fc9f5818a209c29202</md5>
   </update>
   <update appID="brxClient">
     <version>v24.12.22.39825</version>
