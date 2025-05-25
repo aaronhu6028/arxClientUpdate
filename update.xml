@@ -16,19 +16,18 @@
     <md5>ee63cdb02d2aef72e5e0d0b3b8c38b45</md5>
   </update>
   <update appID="brxClient">
-    <version>v25.05.13.25846</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v25.05.13.25846.zip</url>
+    <version>v25.05.26.05627</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v25.05.26.05627.zip</url>
     <fileName>brxClient.exe</fileName>
-    <description>v25.05.13.25846:
-* profit
-</description>
+    <description>v25.05.26.05627:
+* SetTradePosition</description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
       <file>brxClient.exe</file>
       <file>brx-server.zip</file>
     </files>
-    <md5>12e63458fe55bbf7ee65ff8e9f59a0a8</md5>
+    <md5>260c1f52177d9f3466f73e6c69a3f71d</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
