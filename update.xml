@@ -16,10 +16,10 @@
     <md5>ee63cdb02d2aef72e5e0d0b3b8c38b45</md5>
   </update>
   <update appID="brxClient">
-    <version>v25.05.30.19152</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v25.05.30.19152.zip</url>
+    <version>v25.05.30.39347</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v25.05.30.39347.zip</url>
     <fileName>brxClient.exe</fileName>
-    <description>v25.05.30.19152:
+    <description>v25.05.30.39347:
 * Profit
 </description>
     <launchArgs>
@@ -28,7 +28,7 @@
       <file>brxClient.exe</file>
       <file>brx-server.zip</file>
     </files>
-    <md5>f4d814292768f3c5a1a357fb3f3a30b4</md5>
+    <md5>186f768673dd22b789322d40e6911525</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
