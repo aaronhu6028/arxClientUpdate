@@ -20,8 +20,7 @@
     <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v25.08.11.25414.zip</url>
     <fileName>brxClient.exe</fileName>
     <description>v25.08.11.25414:
-* speed clean record
-</description>
+* OKX</description>
     <launchArgs>
     </launchArgs>
     <files dir="..\arxClient\arxClient\bin\Debug\">
