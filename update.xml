@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v25.08.15.04799</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v25.08.15.04799.zip</url>
+    <version>v25.08.24.29893</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v25.08.24.29893.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v25.08.15.04799:
-*OKX
+    <description>v25.08.24.29893:
+*PINDEX ETH
 </description>
     <launchArgs>
     </launchArgs>
@@ -13,7 +13,7 @@
       <file>arxClient.exe</file>
       <file>arx-server.zip</file>
     </files>
-    <md5>fec57cc0f248251b18db22356bc38750</md5>
+    <md5>8d38580ce800049cfc8a5f165ab4c41d</md5>
   </update>
   <update appID="brxClient">
     <version>v25.08.24.30686</version>
