@@ -16,11 +16,11 @@
     <md5>858d91d0796c5c060fb41c5288ce6f82</md5>
   </update>
   <update appID="brxClient">
-    <version>v25.08.24.30686</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v25.08.24.30686.zip</url>
+    <version>v25.09.03.39136</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v25.09.03.39136.zip</url>
     <fileName>brxClient.exe</fileName>
-    <description>v25.08.24.30686:
-* ETH PINDEX
+    <description>v25.09.03.39136:
+* *AB set position
 </description>
     <launchArgs>
     </launchArgs>
@@ -28,7 +28,7 @@
       <file>brxClient.exe</file>
       <file>brx-server.zip</file>
     </files>
-    <md5>94e8f8c5cccfb0d333f6b0c74aa97e9c</md5>
+    <md5>bf0c7858e0824a3e8a19b853414ca77d</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
