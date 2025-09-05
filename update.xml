@@ -15,11 +15,11 @@
     <md5>03ca84fa03d27e1d9243fdb0df0b24c8</md5>
   </update>
   <update appID="brxClient">
-    <version>v25.09.03.39136</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v25.09.03.39136.zip</url>
+    <version>v25.09.05.26003</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v25.09.05.26003.zip</url>
     <fileName>brxClient.exe</fileName>
-    <description>v25.09.03.39136:
-* *AB set position
+    <description>v25.09.05.26003:
+* 布林當沖超
 </description>
     <launchArgs>
     </launchArgs>
@@ -27,7 +27,7 @@
       <file>brxClient.exe</file>
       <file>brx-server.zip</file>
     </files>
-    <md5>bf0c7858e0824a3e8a19b853414ca77d</md5>
+    <md5>d71ac27f3fa4fb24ca4ceadff3477479</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
