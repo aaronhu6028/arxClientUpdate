@@ -16,11 +16,11 @@
     <md5>e086985b5a99da6ecef58e19207f7d0b</md5>
   </update>
   <update appID="brxClient">
-    <version>v25.09.05.26003</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v25.09.05.26003.zip</url>
+    <version>v25.09.05.29213</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v25.09.05.29213.zip</url>
     <fileName>brxClient.exe</fileName>
-    <description>v25.09.05.26003:
-* 布林當沖超
+    <description>v25.09.05.29213:
+* User Guide
 </description>
     <launchArgs>
     </launchArgs>
@@ -28,7 +28,7 @@
       <file>brxClient.exe</file>
       <file>brx-server.zip</file>
     </files>
-    <md5>d71ac27f3fa4fb24ca4ceadff3477479</md5>
+    <md5>8b317f4d849fc44d3aed62e1551a9e16</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
