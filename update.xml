@@ -16,11 +16,11 @@
     <md5>00dda8a257f9ee8a4f0e9d9bd4b1c8ce</md5>
   </update>
   <update appID="brxClient">
-    <version>v25.11.10.19601</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v25.11.10.19601.zip</url>
+    <version>v25.11.22.20936</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v25.11.22.20936.zip</url>
     <fileName>brxClient.exe</fileName>
-    <description>v25.11.10.19601:
-* income update
+    <description>v25.11.22.20936:
+* fix 券商記錄
 </description>
     <launchArgs>
     </launchArgs>
@@ -28,7 +28,7 @@
       <file>brxClient.exe</file>
       <file>brx-server.zip</file>
     </files>
-    <md5>330dfdc86b21a491fe9cd862a13c124c</md5>
+    <md5>05886a6d4d2ba9d7296a168a9adcff35</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
