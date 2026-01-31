@@ -16,10 +16,10 @@
     <md5>00dda8a257f9ee8a4f0e9d9bd4b1c8ce</md5>
   </update>
   <update appID="brxClient">
-    <version>v26.01.31.42305</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v26.01.31.42305.zip</url>
+    <version>v26.02.01.03804</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v26.02.01.03804.zip</url>
     <fileName>brxClient.exe</fileName>
-    <description>v26.01.31.42305:
+    <description>v26.02.01.03804:
 * support more tokens
 </description>
     <launchArgs>
@@ -28,7 +28,7 @@
       <file>brxClient.exe</file>
       <file>brx-server.zip</file>
     </files>
-    <md5>4d8538afc8cfb540c38c9a9bb6fdc53e</md5>
+    <md5>3f911a240e851eb94a2539a6bd58ce70</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
