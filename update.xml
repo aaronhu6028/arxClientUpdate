@@ -16,11 +16,11 @@
     <md5>317c76f40b761ac2e33f69fa66584fca</md5>
   </update>
   <update appID="brxClient">
-    <version>v26.02.16.18661</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v26.02.16.18661.zip</url>
+    <version>v26.03.29.41479</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v26.03.29.41479.zip</url>
     <fileName>brxClient.exe</fileName>
-    <description>v26.02.16.18661:
-* fixed unused account
+    <description>v26.03.29.41479:
+* move dangerous command
 </description>
     <launchArgs>
     </launchArgs>
@@ -28,7 +28,7 @@
       <file>brxClient.exe</file>
       <file>brx-server.zip</file>
     </files>
-    <md5>2be6e109ba257ec7f3fbded8e705cfaf</md5>
+    <md5>d9e6ecf6b8c3060f338acdf4dbe9355f</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
