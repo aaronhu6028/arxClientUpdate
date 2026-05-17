@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="arxClient">
-    <version>v26.03.29.41469</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v26.03.29.41469.zip</url>
+    <version>v26.05.17.39887</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/arxClient/arxClient_v26.05.17.39887.zip</url>
     <fileName>arxClient.exe</fileName>
-    <description>v26.03.29.41469:
-* move dangerous command
+    <description>v26.05.17.39887:
+* auto match position calc
 </description>
     <launchArgs>
     </launchArgs>
@@ -13,7 +13,7 @@
       <file>arxClient.exe</file>
       <file>arx-server.zip</file>
     </files>
-    <md5>317c76f40b761ac2e33f69fa66584fca</md5>
+    <md5>6f37fab50551498861f7c81ab5ca0615</md5>
   </update>
   <update appID="brxClient">
     <version>v26.03.29.41479</version>
