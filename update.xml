@@ -16,11 +16,11 @@
     <md5>6f37fab50551498861f7c81ab5ca0615</md5>
   </update>
   <update appID="brxClient">
-    <version>v26.05.17.39956</version>
-    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v26.05.17.39956.zip</url>
+    <version>v26.08.23.27596</version>
+    <url>https://github.com/aaronhu6028/arxClientUpdate/raw/main/brxClient/brxClient_v26.08.23.27596.zip</url>
     <fileName>brxClient.exe</fileName>
-    <description>v26.05.17.39956:
-* auto match pos calc
+    <description>v26.08.23.27596:
+* lambda
 </description>
     <launchArgs>
     </launchArgs>
@@ -28,7 +28,7 @@
       <file>brxClient.exe</file>
       <file>brx-server.zip</file>
     </files>
-    <md5>239ea725fcb6856b693ace04fd724416</md5>
+    <md5>48220edc6a4e5cf994aaa6872f0380ca</md5>
   </update>
   <update appID="arxRebate">
     <version>v22.03.31.28261</version>
